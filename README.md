@@ -2,6 +2,8 @@
 
 This is a collection of Pure Data patches intended for use on [mxmxmx's Terminal Tedium](https://github.com/mxmxmx/terminal_tedium) Eurorack module. 
 
+I have forked the original repository by [wilsonr](https://github.com/wilsonr) to play around with it and build my own extensions for the Terminal Tedium. 
+
 ## Basil
 
 [Basil](https://github.com/wilsontr/tt-patches/tree/master/basil) is a dual VCO with controls for waveshaping and intermodulation. It's good at creating harsh, metallic, digital textures. It's based on an algorithm in [Noise Engineering's Loquelic Iteritas](https://www.noiseengineering.us/loquelic-iteritas/) Eurorack module. 
