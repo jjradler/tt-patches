@@ -2,7 +2,7 @@
 
 This is a collection of Pure Data patches intended for use on [mxmxmx's Terminal Tedium](https://github.com/mxmxmx/terminal_tedium) Eurorack module. 
 
-I have forked the original repository by [wilsonr](https://github.com/wilsonr) to play around with it and build my own extensions for the Terminal Tedium. 
+I have forked the original repository by [wilsontr](https://github.com/wilsontr) to play around with it and build my own extensions for the Terminal Tedium. 
 
 ## Basil
 
